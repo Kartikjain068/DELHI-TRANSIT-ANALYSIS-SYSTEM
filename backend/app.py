@@ -1,11 +1,10 @@
-import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from db import get_connection
+import os
 
 app = Flask(__name__)
 CORS(app)
-
 
 # 1️⃣ Get stations based on mode (metro / bus)
 @app.get("/stations")
@@ -57,7 +56,6 @@ def get_route():
         else:
             return jsonify({"error": "Invalid mode"}), 400
 
-        # Fetch stop numbers
         query = f"SELECT stop_number FROM {table} WHERE station_name = %s;"
 
         cur.execute(query, (start,))
@@ -74,8 +72,10 @@ def get_route():
 
         stops = abs(end_num - start_num)
 
-        # Approx travel time logic
-        approx_time = stops * (2 if mode == "metro" else 3)
+        if mode == "metro":
+            approx_time = stops * 2
+        else:
+            approx_time = stops * 3
 
         cur.close()
         conn.close()
@@ -92,9 +92,7 @@ def get_route():
         return jsonify({"error": str(e)})
 
 
-# ------------------------------
-# ✔ Production-safe run command
-# ------------------------------
+# ✅ Allow Render to set PORT automatically
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
