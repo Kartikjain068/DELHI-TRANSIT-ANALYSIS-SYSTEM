@@ -1,16 +1,19 @@
+import os
 import psycopg2
-
-DB_NAME = "postgres"
-DB_USER = "postgres"
-DB_PASSWORD = "QWERTYUIop@123"
-DB_HOST = "localhost"
-DB_PORT = "5432"
+from urllib.parse import urlparse
 
 def get_connection():
+    db_url = os.environ.get("DATABASE_URL")
+
+    if not db_url:
+        raise Exception("DATABASE_URL environment variable not set")
+
+    result = urlparse(db_url)
+
     return psycopg2.connect(
-        database=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD,
-        host=DB_HOST,
-        port=DB_PORT
+        database=result.path[1:],
+        user=result.username,
+        password=result.password,
+        host=result.hostname,
+        port=result.port
     )
