@@ -1,0 +1,96 @@
+/* Reset + base styling */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #f5f7fa;
+  font-family: "Poppins", sans-serif;
+  color: #000;
+}
+
+/* Make root take full height and center everything */
+#root {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;   /* Center horizontally */
+  align-items: center;        /* Center vertically */
+}
+
+/* Card container (your station selector box) */
+.station-container {
+  width: 420px;
+  background: #ffffff;
+  padding: 28px;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  text-align: center;
+}
+
+/* Heading */
+.station-container h2 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Dropdown fields */
+select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  margin-top: 10px;
+  background: #fafafa;
+  outline: none;
+  color: #000;
+}
+
+select:focus {
+  border-color: #007bff;
+}
+
+/* Button */
+button {
+  margin-top: 18px;
+  width: 100%;
+  background: #007bff;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #005fcc;
+}
+
+/* Result box */
+.result-box {
+  margin-top: 20px;
+  padding: 15px;
+  background: #eef4ff;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.mode-dropdown {
+  margin-bottom: 20px;
+}
+
+.mode-dropdown select {
+  padding: 10px;
+  width: 200px;
+  border-radius: 8px;
+  border: 1px solid #999;
+  background: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+

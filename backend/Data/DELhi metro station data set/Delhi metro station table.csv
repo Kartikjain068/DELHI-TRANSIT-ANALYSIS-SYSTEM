@@ -1,0 +1,297 @@
+ID (Station ID),Station Names,Layout,Metro Line
+1,Shaheed Sthal(First Station),Elevated,Red line
+2,Hindon River,Elevated,Red line
+3,Arthala,Elevated,Red line
+4,Mohan Nagar,Elevated,Red line
+5,Shyam park,Elevated,Red line
+6,Major Mohit Sharma,Elevated,Red line
+7,Raj Bagh,Elevated,Red line
+8,Shaheed Nagar,Elevated,Red line
+9,Dilshad Garden,Elevated,Red line
+10,Jhil Mil,Elevated,Red line
+11,Mansarovar Park,Elevated,Red line
+12,Shahdara,Elevated,Red line
+13,Welcome [Conn: Pink],Elevated,Red line
+14,Seelampur,Elevated,Red line
+15,Shastri Park,Elevated,Red line
+16,"Kashmere Gate [Conn: Violet,Yellow]",Elevated,Red line
+17,Tis Hazari,Elevated,Red line
+18,Pul Bangash,Elevated,Red line
+19,Pratap Nagar,Elevated,Red line
+20,Shastri Nagar,Elevated,Red line
+21,Inderlok [Conn: Green],Elevated,Red line
+22,Kanhaiya Nagar,Elevated,Red line
+23,Keshav Puram,Elevated,Red line
+24,Netaji Subash Place [Conn: Pink],Elevated,Red line
+25,Kohat Enclave,Elevated,Red line
+26,Pitam Pura,Elevated,Red line
+27,Rohini East,Elevated,Red line
+28,Rohini West,Elevated,Red line
+29,Rithala(last station),Elevated,Red line
+,,,
+101,Samaypur Badli(First Station),Elevated,Yellow line
+102,Rohini Sector 18-19,Elevated,Yellow line
+103,Haiderpur Badli Mor,Elevated,Yellow line
+104,Jahangirpuri,Elevated,Yellow line
+105,Adarsh Nagar,Elevated,Yellow line
+106,Azadpur [Conn: Pink],Elevated,Yellow line
+107,Model Town,Elevated,Yellow line
+108,Guru Tegh Bahadur Nagar,Underground,Yellow line
+109,Vishwavidyalaya,Underground,Yellow line
+110,Vidhan Sabha,Underground,Yellow line
+111,Civil Lines,Underground,Yellow line
+112,Kashmere Gate [Conn: Violet],Underground,Yellow line
+113,Chandni Chowk,Underground,Yellow line
+114,Chawri Bazar,Underground,Yellow line
+115,New Delhi [Conn: Orange],Underground,Yellow line
+116,Rajiv Chowk [Conn: Blue],Underground,Yellow line
+117,Patel Chowk,Underground,Yellow line
+118,Central Secretariat [Conn: Violet],Underground,Yellow line
+119,Udyog Bhawan,Underground,Yellow line
+120,Lok Kalyan Marg,Underground,Yellow line
+121,Jor Bagh,Underground,Yellow line
+122,Dilli Haat INA [Conn: Pink],Underground,Yellow line
+123,AIIMS,Underground,Yellow line
+124,Green Park,Underground,Yellow line
+125,Hauz Khas [Conn: Magenta],Underground,Yellow line
+126,Malviya Nagar,Underground,Yellow line
+127,Saket,Underground,Yellow line
+128,Qutab Minar,Elevated,Yellow line
+129,Chhattarpur,Elevated,Yellow line
+130,Sultanpur,Elevated,Yellow line
+131,Ghitorni,Elevated,Yellow line
+132,Arjan Garh,Elevated,Yellow line
+133,Guru Dronacharya,Elevated,Yellow line
+134,Sikandarpur [Conn: Rapid],Elevated,Yellow line
+135,MG Road,Elevated,Yellow line
+136,IFFCO Chowk,Elevated,Yellow line
+137,Huda City Centre,Elevated,Yellow line
+,,,
+201,Dwarka Sector 21(First station) [Conn: Orange],Underground,Blue line
+202,Dwarka Sector 8,Elevated,Blue line
+203,Dwarka Sector 9,Elevated,Blue line
+204,Dwarka Sector 10,Elevated,Blue line
+205,Dwarka Sector 11,Elevated,Blue line
+206,Dwarka Sector 12,Elevated,Blue line
+207,Dwarka Sector 13,Elevated,Blue line
+208,Dwarka Sector 14,Elevated,Blue line
+209,Dwarka [Conn: Gray],Elevated,Blue line
+210,Dwarka Mor,Elevated,Blue line
+211,Nawada,Elevated,Blue line
+212,Uttam Nagar West,Elevated,Blue line
+213,Uttam Nagar East,Elevated,Blue line
+214,Janak Puri West [Conn: Magenta],Elevated,Blue line
+215,Janak Puri East,Elevated,Blue line
+216,Tilak Nagar,Elevated,Blue line
+217,Subhash Nagar,Elevated,Blue line
+218,Tagore Garden,Elevated,Blue line
+219,Rajouri Garden [Conn: Pink],Elevated,Blue line
+220,Ramesh Nagar,Elevated,Blue line
+221,Moti Nagar,Elevated,Blue line
+222,Kirti Nagar [Conn: Green],Elevated,Blue line
+223,Shadipur,Elevated,Blue line
+224,Patel Nagar,Elevated,Blue line
+225,Rajendra Place,Elevated,Blue line
+226,Karol Bagh,Elevated,Blue line
+227,Jhandewalan,Elevated,Blue line
+228,R K Ashram Marg,Elevated,Blue line
+229,Rajiv Chowk [Conn: Yellow],Underground,Blue line
+230,Barakhamba,Underground,Blue line
+231,Mandi House [Conn: Violet],Underground,Blue line
+232,Supreme Court (Pragati Maidan),Elevated,Blue line
+233,Indraprastha,Elevated,Blue line
+234,Yamuna Bank,At-Grade,Blue line
+235,Akshardham,Elevated,Blue line
+236,Mayur Vihar Phase-1 [Conn: Pink],Elevated,Blue line
+237,Mayur Vihar Extention,Elevated,Blue line
+238,New Ashok Nagar,Elevated,Blue line
+239,Noida Sector 15,Elevated,Blue line
+240,Noida Sector 16,Elevated,Blue line
+241,Noida Sector 18,Elevated,Blue line
+242,Botanical Garden [Conn: Magenta],Elevated,Blue line
+243,Golf Course,Elevated,Blue line
+244,Noida City Center,Elevated,Blue line
+245,Noida Sector 34,Elevated,Blue line
+246,Noida Sector 52 [Conn: Aqua],Elevated,Blue line
+247,Noida Sector 61,Elevated,Blue line
+248,Noida Sector 59,Elevated,Blue line
+249,Noida Sector 62,Elevated,Blue line
+,,,
+S201,Yamuna Bank,At-Grade,Blue line branch
+S202,Laxmi Nagar,Elevated,Blue line branch
+S203,Nirman Vihar,Elevated,Blue line branch
+S204,Preet Vihar,Elevated,Blue line branch
+S205,Karkar Duma [Conn: Pink],Elevated,Blue line branch
+S206,Anand Vihar [Conn: Pink],Elevated,Blue line branch
+S207,Kaushambi,Elevated,Blue line branch
+S208,Vaishali,Elevated,Blue line branch
+,,,
+301,Inderlok Conn:Red,Elevated,Green line
+302,Ashok Park Main,Elevated,Green line
+303,Punjabi Bagh,Elevated,Green line
+304,Shivaji Park,Elevated,Green line
+305,Madipur,Elevated,Green line
+306,Paschim Vihar (East),Elevated,Green line
+307,Paschim Vihar (West),Elevated,Green line
+308,Peera Garhi,Elevated,Green line
+309,Udyog Nagar,Elevated,Green line
+310,Maharaja Surajmal Stadium,Elevated,Green line
+311,Nangloi,Elevated,Green line
+312,Nangloi Railway Station,Elevated,Green line
+313,Rajdhani Park,Elevated,Green line
+314,Mundka,Elevated,Green line
+315,Mundka Industrial Area (MIA),Elevated,Green line
+316,Ghevra Metro station,Elevated,Green line
+317,Tikri Kalan,Elevated,Green line
+318,Tikri Border,Elevated,Green line
+319,Pandit Shree Ram Sharma,Elevated,Green line
+320,Bahdurgarh City,Elevated,Green line
+321,Brigadier Hoshiar Singh,Elevated,Green line
+,,,
+S301,Ashok Park Main,Elevated,Green line branch
+S302,Satguru Ram Singh Marg,Elevated,Green line branch
+S303,Kirti Nagar [Conn: Blue],At-Grade,Green line branch
+,,,
+401,Sector 53-54,Elevated,Rapid Metro
+402,Sector 42-43,Elevated,Rapid Metro
+403,DLF Phase 1 ,Elevated,Rapid Metro
+404,Sikandarpur [Conn: Yellow],Elevated,Rapid Metro
+405,DLF Phase 2 ,Elevated,Rapid Metro
+406,Belvedere Towers ,Elevated,Rapid Metro
+407,Cyber City ,Elevated,Rapid Metro
+408,Moulsari Avenue,Elevated,Rapid Metro
+409,DLF Phase 3 ,Elevated,Rapid Metro
+,,,
+501,Kashmere Gate [Conn: Yellow],Underground,Voilet line
+502,Lal Quila,Underground,Voilet line
+503,Jama Masjid,Underground,Voilet line
+504,Delhi Gate,Underground,Voilet line
+505,ITO,Underground,Voilet line
+506,Mandi House [Conn: Blue],Underground,Voilet line
+507,Janpath,Underground,Voilet line
+508,Central Secretariat [Conn: Yellow],Underground,Voilet line
+509,Khan Market,Underground,Voilet line
+510,Jawaharlal Nehru Stadium,Underground,Voilet line
+511,Jangpura,Underground,Voilet line
+512,Lajpat Nagar [Conn: Pink],Elevated,Voilet line
+513,Moolchand,Elevated,Voilet line
+514,Kailash Colony,Elevated,Voilet line
+515,Nehru Place,Elevated,Voilet line
+516,Kalkaji Mandir [Conn: Magenta],Elevated,Voilet line
+517,Govind Puri,Elevated,Voilet line
+518,Okhla,Elevated,Voilet line
+519,Jasola,Elevated,Voilet line
+520,Sarita Vihar,Elevated,Voilet line
+521,Mohan Estate,Elevated,Voilet line
+522,Tughlakabad,Elevated,Voilet line
+523,Badarpur Border,Elevated,Voilet line
+524,Sarai,Elevated,Voilet line
+525,N.H.P.C. Chowk,Elevated,Voilet line
+526,Mewala Maharajpur,Elevated,Voilet line
+527,Sector 28 Faridabad,Elevated,Voilet line
+528,Badkal Mor,Elevated,Voilet line
+529,Old Faridabad,Elevated,Voilet line
+530,Neelam Chowk Ajronda,Elevated,Voilet line
+531,Bata Chowk,Elevated,Voilet line
+532,Escorts Mujesar,Elevated,Voilet line
+533,Sant Surdas - Sihi,Elevated,Voilet line
+534,Raja Nahar Singh,Elevated,Voilet line
+,,,
+601,Janak Puri West [Conn: Blue],Underground,Magenta line
+602,Dabri Mor - Janakpuri South,Underground,Magenta line
+603,Dashrath Puri,Underground,Magenta line
+604,Palam,Underground,Magenta line
+605,Sadar Bazaar Cantonment,Elevated,Magenta line
+606,Terminal 1 IGI Airport,Underground,Magenta line
+607,Shankar Vihar,Elevated,Magenta line
+608,Vasant Vihar,Underground,Magenta line
+609,Munirka,Underground,Magenta line
+610,RK Puram,Underground,Magenta line
+611,IIT Delhi,Underground,Magenta line
+612,Hauz Khas [Conn: Yellow],Underground,Magenta line
+613,Panchsheel Park,Underground,Magenta line
+614,Chirag Delhi,Underground,Magenta line
+615,Greater Kailash,Underground,Magenta line
+616,Nehru Enclave,Underground,Magenta line
+617,Kalkaji Mandir [Conn: Violet],Underground,Magenta line
+618,Okhla NSIC,Elevated,Magenta line
+619,Sukhdev Vihar,Elevated,Magenta line
+620,JAMIA MILLIA ISLAMIA,Elevated,Magenta line
+621,Okhla Vihar,Elevated,Magenta line
+622,Jasola Vihar Shaheen Bagh,Elevated,Magenta line
+623,Kalindi Kunj,Elevated,Magenta line
+624,Okhla Bird Sanctuary,Elevated,Magenta line
+625,Botanical Garden [Conn: Blue],Elevated,Magenta line
+,,,
+701,Majlis Park,Elevated,Pink line
+702,Azadpur [Conn: Yellow],Underground,Pink line
+703,Shalimar Bagh,Underground,Pink line
+704,Netaji Subash Place [Conn: Red],Underground,Pink line
+705,Shakurpur,Elevated,Pink line
+706,Punjabi Bagh West,Elevated,Pink line
+707,ESI BASAI DARAPUR,Elevated,Pink line
+708,Rajouri Garden [Conn: Blue],Elevated,Pink line
+709,Maya Puri,Elevated,Pink line
+710,Naraina Vihar,Underground,Pink line
+711,Delhi Cantt,Elevated,Pink line
+712,Durgabai Deshmukh South Campus [Conn: Orange],Elevated,Pink line
+713,Sir Vishweshwaraiah Moti Bagh,Elevated,Pink line
+714,Bhikaji Cama Place,Underground,Pink line
+715,Sarojini Nagar,Underground,Pink line
+716,Dilli Haat INA [Conn: Yellow],Underground,Pink line
+717,South Extension,Underground,Pink line
+718,Lajpat Nagar [Conn: Violet],Underground,Pink line
+719,Vinobapuri,Underground,Pink line
+720,Ashram,Underground,Pink line
+721,Sarai Kale Khan Hazrat Nizamuddin,Underground,Pink line
+722,Mayur Vihar Phase-1 [Conn: Blue],Elevated,Pink line
+723,Mayur Vihar Pocket I,Elevated,Pink line
+724,Trilokpuri Sanjay Lake,Elevated,Pink line
+725,Vinod Nagar East,Elevated,Pink line
+726,Mandawali - West Vinod Nagar,Elevated,Pink line
+727,IP Extension,Elevated,Pink line
+728,Anand Vihar [Conn: Blue],Elevated,Pink line
+729,Karkar Duma [Conn: Blue],Elevated,Pink line
+730,Karkarduma Court,Elevated,Pink line
+731,Krishna Nagar,Elevated,Pink line
+732,East Azad Nagar,Elevated,Pink line
+733,Welcome [Conn: Red],Elevated,Pink line
+734,Jaffrabad,Elevated,Pink line
+735,Maujpur,Elevated,Pink line
+736,Gokulpuri,Elevated,Pink line
+737,Johri Enclave,Elevated,Pink line
+738,Shiv Vihar,Elevated,Pink line
+,,,
+801,Noida Sector 51 [Conn: Blue],Elevated,Aqua line
+802,Noida Sector 50,Elevated,Aqua line
+803,Noida Sector 76,Elevated,Aqua line
+804,Noida Sector 101,Elevated,Aqua line
+805,Noida Sector 81,Elevated,Aqua line
+806,NSEZ Noida,Elevated,Aqua line
+807,Noida Sector 83,Elevated,Aqua line
+808,Noida Sector 137,Elevated,Aqua line
+809,Noida Sector 142,Elevated,Aqua line
+810,Noida Sector 143,Elevated,Aqua line
+811,Noida Sector 144,Elevated,Aqua line
+812,Noida Sector 145,Elevated,Aqua line
+813,Noida Sector 146,Elevated,Aqua line
+814,Noida Sector 147,Elevated,Aqua line
+815,Noida Sector 148,Elevated,Aqua line
+816,Knowledge Park II,Elevated,Aqua line
+817,Pari Chowk Greater Noida,Elevated,Aqua line
+818,Alpha 1 Greater Noida,Elevated,Aqua line
+819,Delta 1 Greater Noida,Elevated,Aqua line
+820,GNIDA Office,Elevated,Aqua line
+821,Depot Greater Noida,Elevated,Aqua line
+,,,
+901,Dwarka [Conn: Blue],Elevated,Gray line
+902,Nangli,Elevated,Gray line
+903,Najafgarh,Underground,Gray line
+904,Dhana Bus Stand,Elevated,Gray line
+,,,
+1001,New Delhi-Airport Express [Conn: Yellow],Underground,Orange line
+1002,Shivaji Stadium,Underground,Orange line
+1003,Dhaula Kuan [Conn: Pink],Elevated,Orange line
+1004,Delhi Aerocity,Underground,Orange line
+1005,IGI Airport,Underground,Orange line
+1006,Dwarka Sector 21 [Conn: Blue],Underground,Orange line
