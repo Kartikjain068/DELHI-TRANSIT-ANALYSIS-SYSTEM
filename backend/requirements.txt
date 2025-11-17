@@ -1,6 +1,10 @@
 Flask==3.1.2
 flask-cors==6.0.1
+
 psycopg2-binary==2.9.11
+
 pandas==2.3.3
 numpy==2.3.3
 python-dateutil==2.9.0.post0
+
+gunicorn==23.0.0   # required for Render
